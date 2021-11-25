@@ -1,0 +1,4 @@
+/* styling */
+#display-numbers , #error-message, #failed-message, #Loading {
+     display: none;
+}
